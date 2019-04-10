@@ -1,0 +1,5 @@
+/functions/mock/**
+/scripts
+/config
+
+*.test.tsx
